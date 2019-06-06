@@ -1,4 +1,4 @@
 Hi,we are learning Git together.
 Have a good time!
 
-We are going to record some git comamands here.
+We are going to record some git comamands here !!!
